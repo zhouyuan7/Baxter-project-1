@@ -1,1 +1,32 @@
 # ME570
+cd code/ros_ws/
+
+./baxter.sh
+
+
+
+enable
+
+rosrun baxter_tools enable_robot.py -e
+
+
+
+server
+
+rosrun baxter_interface joint_trajectory_action_server.py --mode position
+
+
+
+test1
+
+rosrun baxter_tools camera_control.py -o left_hand_camera -r 960x600
+
+rosrun image_view image_view image:=/cameras/left_hand_camera/image
+
+rosrun baxter_examples ME570_test1.py
+
+
+
+test2
+
+rosrun baxter_examples ME570_test2.py
