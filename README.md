@@ -6,7 +6,9 @@
 
 This is my first Baxter project! It is also a course project of ME570 Robot Motion Planning from Boston University. 
 
-A robot arm on-line plane tracking project, which in detail can be divideded into vision and motion parts. For vision part, using Baxter arm camera recongnize a tennis target using color detection method through openCV and given depth information convert the target camera view frame location to the baxter coordinate system.    
+A robot arm on-line plane tracking project, which in detail can be divideded into vision and motion parts. For vision part, using Baxter arm camera recongnize a tennis target using color detection method through openCV and given depth information convert the target camera view frame location to the baxter coordinate system.  
+
+![alt text](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/paper_final.jpg)
 
 ## Report Abstract
 
