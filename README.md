@@ -14,3 +14,8 @@ We also validate our approach by implementation on the Baxter robot.
 ## Feature
 
 This project can be viewed as an online plane tracking and can be suddivided into vision and motion parts.
+
+## Video
+
+![Output sample](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_1.gif)
+
