@@ -11,7 +11,7 @@ A robot arm on-line plane tracking project, which in detail can be divideded int
 ![alt text](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/paper_final.jpg)
 The above image is the color detector results.
 
-For the motion part, after received the target X-Y location in Baxter coordinate. We set the origin coordinate from Baxter ros message '/endpoint_pose' and use a potential based function to generate a plane vector as a control signal. Use Bater default IK solver to move the robot arm in configuraiton space.
+For the motion part, after received the target X-Y location in Baxter coordinate. We set the origin coordinate from Baxter ros message '/endpoint_pose' and use a potential based function to generate a plane vector as a control signal. Use Bater default IK solver service and joint move API to control the robot arm in configuraiton space.
 
 ## Report Abstract
 
