@@ -4,8 +4,6 @@
 <img src="https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_3.gif"/>
 </p>
 
-![Output sample](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_3.gif)
-
 ## Introduction
 
 This is my first Baxter project! It is also a course project of ME570 Robot Motion Planning from Boston University. The propose of this project is tracing a target tennis ball on a plane using Baxter robot arm. 
@@ -29,7 +27,10 @@ We also validate our approach by implementation on the Baxter robot.
 
 ## More Videos
 
-![Output sample](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_1.gif)
+<p align="center">
+<img src="https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_1.gif"/>
+</p>
 
-![Output sample](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_2.gif)
-
+<p align="center">
+<img src="https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_2.gif"/>
+</p>
