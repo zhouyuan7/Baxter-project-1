@@ -11,7 +11,9 @@ This is my first Baxter project! It is also a course project of ME570 Robot Moti
 A robot arm on-line plane tracking project, which in detail can be divided into vision and motion parts. For vision part, using Baxter arm camera recognizes a tennis target through openCV color detection method and with given depth information,  convert the target camera view frame location to the Baxter coordinate system.  
 
 ![alt text](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/paper_final.jpg)
-The above image is the color detector results.
+<p align="center">
+color detector results
+</p>
 
 For the motion part, after received the target X-Y location in Baxter coordinate. We set the origin coordinate from Baxter ros message '/endpoint_pose' and use a potential based function to generate a plane vector as a control signal. Use Baxter default IK solver service and joint move API to control the robot arm in configuration space.
 
