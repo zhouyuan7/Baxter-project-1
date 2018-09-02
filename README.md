@@ -1,7 +1,7 @@
 # Baxter-project-1
 
 <p align="center">
-<img src="https://https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_3.gif"/>
+<img src="https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_3.gif"/>
 </p>
 
 ![Output sample](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/baxter_project_1_gif_3.gif)
