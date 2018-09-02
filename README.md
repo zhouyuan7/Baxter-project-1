@@ -17,8 +17,8 @@ For the motion part, after received the target X-Y location in Baxter coordinate
 
 ## Report Abstract
 
-In this project, My classmate Wen and I describe a visual servoing control method enhanced by an obstacle avoidance strategy 
-using  potential based function. The solution require both relative bearing measurements and relative distance measurements, 
+In this project, my classmate Wen and I describe a visual servoing control method enhanced by an obstacle avoidance strategy 
+using  potential based function. The solution requires both relative bearing measurements and relative distance measurements, 
 which  acquire from the RGB-camera by color-based detection method through OpenCV. This property allows us to reduce the 
 dependence  on the relative distance measurements, which are relatively more inaccurate compared with relative bearing 
 measurements in most cases. Eye-in-hand sensor arrangement can provide a relative high accuracy and avoid vision collision. 
